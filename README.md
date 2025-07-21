@@ -5,7 +5,7 @@ A beautifully designed Flutter application that allows users to browse, search, 
 
 <img width="200" height="450" alt="image" src="https://github.com/user-attachments/assets/0f308529-2c2b-4d78-939e-1db0a11615fc" />
 
-<img width="200" height="450" alt="image" src="https://github.com/user-attachments/assets/aa5c9339-91c5-4115-99cc-483c64635533" />
+<img width="200" height="420" alt="image" src="https://github.com/user-attachments/assets/aa5c9339-91c5-4115-99cc-483c64635533" />
 
 
 
