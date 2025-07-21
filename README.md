@@ -8,6 +8,7 @@ A beautifully designed Flutter application that allows users to browse, search, 
 <b> Downloads</b>
 
 <img width="200" height="420" alt="image" src="https://github.com/user-attachments/assets/aa5c9339-91c5-4115-99cc-483c64635533" />
+
 <b> Profile</b>
 
 
